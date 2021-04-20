@@ -43,3 +43,9 @@ Make sure `ganache` is running in the background, and then,
 ```
 truffle migrate --reset
 ```
+
+## Next Steps
+
+- Deploy to Ethereum testnet
+
+- Front-end
